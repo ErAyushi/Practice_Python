@@ -1,0 +1,17 @@
+1. Write a Python program that calculates the area of a circle based on the radius entered by the user.
+Sample Output :
+r = 1.1
+Area = 3.8013271108436504
+
+2. Write a Python program to display the first and last colors from the following list.
+color_list = ["Red","Green","White" ,"Black"]
+
+3. Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn.
+Sample value of n is 5
+Expected Result : 615
+
+4. Write a Python program to calculate the number of days between two dates.
+Sample dates : (2014, 7, 2), (2014, 7, 11)
+Expected output : 9 days
+
+5. Write a Python program to test whether a number is within 100 of 1000 or 2000.
