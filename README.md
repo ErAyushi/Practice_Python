@@ -4,3 +4,6 @@ https://towardsdatascience.com/ml-ops-machine-learning-as-an-engineering-discipl
 
 #pandas
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/diamonds.csv
+
+#meeting
+https://meet.google.com/puh-kxqi-gzk
